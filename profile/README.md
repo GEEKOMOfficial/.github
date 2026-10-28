@@ -16,3 +16,4 @@ The A9 Mega (AMD Ryzen AI Max+ 395 / 388) is our local AI super PC. We publish o
 
 - Website: https://www.geekompc.com/
 - Hugging Face: https://huggingface.co/geekom-ai
+- Discord community: https://discord.gg/8WxyT7yvhw
